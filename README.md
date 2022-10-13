@@ -1,5 +1,22 @@
 # Excel-data-visulazation-
 
+
+
+
+Introduction
+Agenda
+Phases of Data Analytics Project
+Data Cleaning
+Functions
+Lookup Functions
+Conditional Formatting
+Data Validation
+Pivot Tables
+Data Visualisation using Excel
+Summary
+
+
+
 1. IF
 The IF function is extremely useful. This function means we can automate decision making in our spreadsheets.
 
